@@ -1,5 +1,44 @@
 @import "bootstrap/dist/css/bootstrap";
 
 .navbar {
-	background-color: #fdf6ea !important;
+	background-color: black !important;
+}
+
+.nav-link {
+	color: white !important;
+}
+
+#logo {
+	float: left;
+	font-size: 1.7em;
+	color: #fff !important;
+	text-transform: uppercase;
+}
+
+.jumbotron {
+	background-image: asset-url("img_1.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 425px;
+	border-radius: 5px;
+}
+
+html,
+body {
+	height: 100%;
+}
+
+#page-content {
+	flex: 1 0 auto;
+}
+
+#sticky-footer {
+	flex-shrink: none;
+}
+
+/* Other Classes for Page Styling */
+
+body {
+	background: lightgray;
 }
