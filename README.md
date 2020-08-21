@@ -60,3 +60,7 @@ Build new user sign up form
 ## Create new users back-end
 
 Handle form submission for users sign up
+
+## Edit existing users
+
+Add edit functionality to existing user information
