@@ -52,3 +52,7 @@ Change an object's state before saving to database
 ## Intro and add authentication
 
 Add has_secure_password to users using bcrypt 
+
+## User Sign Up Form
+
+Build new user sign up form
