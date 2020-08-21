@@ -39,3 +39,7 @@ Restriction of actions
 Security
 
 - Admin user functionality and access level
+
+## Show User Info
+
+Display username in articles index and show
