@@ -43,3 +43,12 @@ Security
 ## Show User Info
 
 Display username in articles index and show
+
+## The before_save method
+
+Change an object's state before saving to database
+ <before_save { self.email = email.downcase }>
+
+## Intro and add authentication
+
+Add has_secure_password to users using bcrypt 
