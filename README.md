@@ -56,3 +56,7 @@ Add has_secure_password to users using bcrypt
 ## User Sign Up Form
 
 Build new user sign up form
+
+## Create new users back-end
+
+Handle form submission for users sign up
